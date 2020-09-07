@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1588262034 source:c:\users\juans\desktop\proyecto\lista.cpp
+	"lista.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1590185327 c:\users\juans\desktop\proyecto\lista.h
+	<stdlib.h>
+	<conio.h>
+
+1590526609 source:c:\users\juans\desktop\proyecto\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"Lista.cpp"
+
+1588262034 c:\users\juans\desktop\proyecto\lista.cpp
+	"lista.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
